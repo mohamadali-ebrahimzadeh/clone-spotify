@@ -1,2 +1,3 @@
 # clone-spotify
-music app like sptify
+
+music app like spotify
